@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+}
+
+/* Títulos */
+h1 {
+    color: #ff7b00;
+    text-align: center;
+}
+
+h2 {
+    color: #ff9933;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #333;
+}
+
+/* Separadores */
+hr {
+    border: 0;
+    height: 2px;
+    background: #ff7b00;
+    margin: 25px 0;
+}
+
+/* Informações e textos */
+p {
+    color: #444;
+    line-height: 1.5;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+    background: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
